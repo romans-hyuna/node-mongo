@@ -1,0 +1,1 @@
+"# node-mongo-app"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/romans-hyuna/node-mongo-app.gitgit push -u origin master
